@@ -1,0 +1,15 @@
+{
+  "name": "ai-trade-bot-backend",
+  "version": "1.0.0",
+  "description": "Backend API for AI Trade Bot - Base Network",
+  "main": "api/execute-trade.js",
+  "scripts": {
+    "start": "node api/execute-trade.js"
+  },
+  "dependencies": {
+    "ethers": "^6.9.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
